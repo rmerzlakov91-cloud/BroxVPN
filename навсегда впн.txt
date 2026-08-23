@@ -2,7 +2,7 @@
 #profile-update-interval: 2
 #announce: канал: BroxVPN
 #providerid iBU2YyxW
-#hide-settings: true
+hide_settings: true
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 vless://f405a849-c29c-4c39-8daf-e95fda6b5c16@195.78.48.159:1339?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pilka.xanka.best&fp=firefox&pbk=okU4G2KsLWMyFwIOCsAtFJ1G7W8zhDMlwkmRVAYbemc&sid=b5ca60c5&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
 vless://8c780bfa-0172-4597-ab89-5c0a075175ec@yt.finka.xanka.best:1337?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi5.xanka.best&fp=firefox&pbk=ZUUVt0LBVQqYyLprRXxl57HYwXyrYkwK-I0PO1FGYmI&sid=54d29689&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
