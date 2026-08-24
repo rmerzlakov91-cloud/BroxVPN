@@ -6,3 +6,4 @@
 #hide_settings: true
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 vless://0a07bc3e-4fba-40d0-9ce0-ec41c7c66c4b@95.85.228.80:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nid1.hatvpn.org&fp=firefox&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
+vless://0a07bc3e-4fba-40d0-9ce0-ec41c7c66c4b@95.85.228.212:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=est.hatvpn.org&fp=firefox&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
