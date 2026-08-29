@@ -1,6 +1,6 @@
 #profile-title: BroxVPN
 #profile-title: BroxVPN
-#profile-update-interval: 2
+#profile-update-interval: 1
 #announce: канал: BroxVPN
 #providerid iBU2YyxW
 #hide_settings: true
