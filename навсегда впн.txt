@@ -20,6 +20,14 @@ vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@de.applepie-recipe.ru:443?flow=xtls
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@pl.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇵🇱%20Польша
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@it.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇮🇹%20Италия
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@fin.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇷🇺%20Ютуб%20без%20рекламы
+vless://36b2893c-b191-000c-95d4-2218a3ca8570@188.225.62.52:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rt.rbc.ru&fp=hellochrome_131&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d&type=tcp&headerType=none#Обход%20глушилок%201%20(test)
+
+vless://36b2893c-b191-0010-95d4-2218a3ca8570@sws.speedtec.ru:443?encryption=none&security=tls&sni=sws.speedtec.ru&type=ws&host=sws.speedtec.ru&path=%2Fapi%2Fuploads%2Fchunks%2Fpart.dat%2F#Обход%20глушилок%202%20(test)
+
+vless://36b2893c-b191-000b-95d4-2218a3ca8570@37.9.4.77:10065?encryption=none&security=reality&sni=rbc.ru&fp=hellochrome_131&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d&type=grpc&mode=gun&authority=&serviceName=#Обход%20глушилок%203%20(test)
+
+vless://36b2893c-b191-000e-95d4-2218a3ca8570@sws.speedtec.ru:443?encryption=none&security=tls&sni=sws.speedtec.ru&type=ws&host=sws.speedtec.ru&path=%2Fapi%2Fuploads%2Fchunks%2Fpart.dat%2F#Обход%20глушилок%204%20(test)
+vless://36b2893c-b191-000c-95d4-2218a3ca8570@188.225.62.52:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rt.rbc.ru&fp=hellochrome_131&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d&type=tcp&headerType=none#🇷🇺%20Запасные👇
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.157:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Обход%20глушилок%20%231
 
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.155:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Обход%20глушилок%20%232
