@@ -5,11 +5,11 @@
 #providerid iBU2YyxW
 #hide_settings: true
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://566b3d60-25e4-44c0-ad18-5af3d24af89e@109.206.243.148:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=strm.yandex.net&pbk=gnQbWgu4gc360x_qtrLG59_GZnM9b07z2FNMhbywunk&sid=c61a9e3b&fp=firefox#🇪🇺 Автовыбор
+vless://7b5e344f-7a4f-4d56-a87f-b50620f16fbb@150.241.99.252:443?encryption=none&type=ws&security=none#🇪🇺Автовыбор
 
-vless://566b3d60-25e4-44c0-ad18-5af3d24af89e@150.241.99.252:443?encryption=none&type=ws&security=none#🇩🇪 Германия
+vless://7b5e344f-7a4f-4d56-a87f-b50620f16fbb@109.206.243.148:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=strm.yandex.net&pbk=gnQbWgu4gc360x_qtrLG59_GZnM9b07z2FNMhbywunk&sid=c61a9e3b&fp=firefox#🇫🇮 Финляндия
 
-vless://566b3d60-25e4-44c0-ad18-5af3d24af89e@188.120.231.218:443?encryption=none&type=xhttp&security=reality&sni=bitrix24.ru&pbk=jnTZkebXOqs8jozieDRiomPz1xBRgXyqarTKr-0kl0E&sid=a5e9173d&fp=firefox&path=%2Fxhttppath%2F#🇳🇱 Нидерланды
+vless://7b5e344f-7a4f-4d56-a87f-b50620f16fbb@188.120.231.218:443?encryption=none&type=xhttp&security=reality&sni=bitrix24.ru&pbk=jnTZkebXOqs8jozieDRiomPz1xBRgXyqarTKr-0kl0E&sid=a5e9173d&fp=firefox&path=%2Fxhttppath%2F#🇳🇱 Нидерланды
 
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@fin.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇫🇮%20Финляндия
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@sp.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=sp.applepie-recipe.ru&type=tcp&headerType=none#🇪🇸%20Испания
