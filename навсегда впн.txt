@@ -21,18 +21,12 @@ vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@pl.applepie-recipe.ru:443?flow=xtls
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@it.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇮🇹%20Италия
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@fin.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇷🇺%20Ютуб%20без%20рекламы
 
-vless://86ca6121-b0fe-460d-9a37-4245a07c5751@95.163.232.143:443?encryption=none&security=reality&sni=rbc.ru&fp=firefox&pbk=-Rr9E_n1_cBdsHQ_Sy3yMQXUMGjmTp-dUU_IQHy_FVQ&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc443#%F0%9F%93%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%231
-vless://86ca6121-b0fe-460d-9a37-4245a07c5751@194.59.40.53:443?encryption=none&security=reality&sni=rbc.ru&fp=chrome&pbk=LOmzHLkcmBfLza-l3L8srQIe54mYES0PXJYqwJzSG1k&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc443#%F0%9F%93%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%232
-vless://86ca6121-b0fe-460d-9a37-4245a07c5751@188.225.37.132:443?encryption=none&security=reality&sni=rbc.ru&fp=firefox&pbk=-Rr9E_n1_cBdsHQ_Sy3yMQXUMGjmTp-dUU_IQHy_FVQ&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc443#%F0%9F%93%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%233
-vless://86ca6121-b0fe-460d-9a37-4245a07c5751@194.135.34.161:443?encryption=none&security=reality&sni=rbc.ru&fp=chrome&pbk=LOmzHLkcmBfLza-l3L8srQIe54mYES0PXJYqwJzSG1k&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc443#%F0%9F%93%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%234%20%F0%9F%92%AC%20%D0%9C%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D1%8B
-vless://86ca6121-b0fe-460d-9a37-4245a07c5751@188.225.18.91:443?encryption=none&security=reality&sni=rbc.ru&fp=firefox&pbk=-Rr9E_n1_cBdsHQ_Sy3yMQXUMGjmTp-dUU_IQHy_FVQ&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc443#%F0%9F%93%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%F0%9F%8E%AE%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9
+vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.157:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Обход глушилок #1
 
-vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.157:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#🇷🇺Запасные👇
+vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.155:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Обход глушилок #2
 
-vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.155:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Запасной обход
+hysteria2://399dca8a-357c-4c82-9a21-7c1d276c6ec0@37.143.14.4:30555?security=tls&fm=%7B%7D&sni=shopper.applepie-recipe.ru#Обход глушилок #3
 
-hysteria2://399dca8a-357c-4c82-9a21-7c1d276c6ec0@37.143.14.4:30555?security=tls&fm=%7B%7D&sni=shopper.applepie-recipe.ru#Запасной обход
-
-vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.158:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Запасной обход
+vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@194.55.239.158:443?encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=grpc&mode=gun&authority=&serviceName=kings.applepie-recipe.ru.v1.AccountService#Обход глушилок #4
 
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@46.254.17.76:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=id.x5.ru&fp=firefox&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&type=tcp&headerType=none#Игровой%20обход
