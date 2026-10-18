@@ -5,7 +5,9 @@
 #providerid iBU2YyxW
 #hide_settings: true
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://51cf4e21-e5e0-4101-8d6d-49938fc417bf@109.206.243.148:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=strm.yandex.net&pbk=gnQbWgu4gc360x_qtrLG59_GZnM9b07z2FNMhbywunk&sid=c61a9e3b&fp=firefox#🇪🇺 Автовыбор
+vless://51cf4e21-e5e0-4101-8d6d-49938fc417bf@109.206.243.148:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=strm.yandex.net&pbk=gnQbWgu4gc360x_qtrLG59_GZnM9b07z2FNMhbywunk&sid=c61a9e3b&fp=firefox#🇪🇺 Автовыбор | Обычный VPN
+
+vless://32e8f08b-d7ef-44bc-9952-77ca4536382c@81.177.165.135:7443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=white.tortvpn.ru&fp=firefox&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&type=tcp&headerType=none#🇪🇺Автовыбор | Обход глушилок
 
 vless://51cf4e21-e5e0-4101-8d6d-49938fc417bf@188.120.251.215:443?encryption=none&type=xhttp&security=reality&sni=bitrix24.ru&pbk=JVFrxMDezf5mMl0Xd_ajbh1W0GwqleX4HAEg4tBOmBo&sid=a5e9173d&fp=firefox&path=%2Fxhttppath%2F#🇳🇱 Нидерланды
 
