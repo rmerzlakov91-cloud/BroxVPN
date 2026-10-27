@@ -15,12 +15,8 @@ vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@tk.applepie-recipe.ru:443?flow=xtls
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@us.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
 vless://399dca8a-357c-4c82-9a21-7c1d276c6ec0@ytnoads.applepie-recipe.ru:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kings.applepie-recipe.ru&type=tcp&headerType=none#🇷🇺Ютуб без рекламы
 
-vless://136a284e-d46b-43ac-8996-f62439eff98c@188.225.77.163:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%231
 
-vless://136a284e-d46b-43ac-8996-f62439eff98c@188.225.77.163:7443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход глушилок #2
-
-vless://136a284e-d46b-43ac-8996-f62439eff98c@cdn.cubeland.top:443?encryption=none&security=tls&sni=cdn.cubeland.top&type=ws&path=%2Fws%2Fgenerate%2Fpositions&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#Обход%20глушилок%20%233
-
-vless://136a284e-d46b-43ac-8996-f62439eff98c@188.225.77.163:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход глушилок #4
-
-vless://136a284e-d46b-43ac-8996-f62439eff98c@188.225.77.163:7443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%235
+vless://8d1a4584-f70e-44ad-a365-2316b463b38f@188.225.77.163:7443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%231
+vless://8d1a4584-f70e-44ad-a365-2316b463b38f@188.225.77.163:5443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%232
+vless://8d1a4584-f70e-44ad-a365-2316b463b38f@188.225.77.163:5443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%233
+vless://8d1a4584-f70e-44ad-a365-2316b463b38f@188.225.77.163:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=sxj43RqgstmdIbDhv6o15574lRRV4ApmWMwwxbF4700&type=tcp&headerType=none#Обход%20глушилок%20%234
